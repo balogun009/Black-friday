@@ -1,0 +1,30 @@
+.bi {
+    font-size: 20px;
+}
+
+.bi-basket3-fill {
+    color: red;
+}
+
+.bi-basket3-fill, .bi-truck, .bi-cash {
+    font-size: 40px;
+}
+
+.horizontal-scroll {
+    overflow-x: auto;
+}
+
+.slides {
+width: 270px;
+height: 250px;
+flex: 0 0 auto;
+margin-left: 5px;
+}
+
+.bi-truck {
+    color: green;
+}
+
+.bi-cash {
+    color: yellow;
+}
